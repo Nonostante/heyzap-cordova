@@ -30,8 +30,8 @@ Third party SDKs can be added by adding their appropriate plugins found in the f
 
 Supported Platforms
 -------------------
-- iOS (cordova-ios engine 3.8.0 and later)
-- Android (cordova-android engine 4.0.0 and later)
+- iOS (cordova-ios engine 4.0.0 and later)
+- Android (cordova-android engine 7.0.0 and later)
 
 External Libraries Used
 -----------------------
